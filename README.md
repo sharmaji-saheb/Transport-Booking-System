@@ -1,4 +1,4 @@
-#SIMPLE TRANSPORT BOOKING SYSTEM
+**#SIMPLE TRANSPORT BOOKING SYSTEM**
 
 Books different vehicles for travelling between cities
 
@@ -23,6 +23,9 @@ There are 1131 edges stored in route.txt file,
 7 ciities with airports stored in airCities.txt file.
 
 Distance via air between cities having airports are connected is stored in airways.txt 
+
+**LINK FOR GOOGLE EARTH PROJECT TO VISUALIZE INITIAL DATASET**
+https://earth.google.com/earth/d/1tlYSuyinzcOuCPoFbp6Pp3agF1byFhE9?usp=sharing
 
 **TO DELETE DATASET AND CREATE YOUR OWN, JUST DELETE THE CONTENT OF TXT FILE AND EDIT IT THROUGH PROGRAM. BUT DONT DELETE THE FILES THEMSELVES**
 
